@@ -1,3 +1,9 @@
+commit 9ab0db6d67aa67c635ac62fd0f62ffc30d8b44c4
+Author: Subject-Infinite <hkqureshi@live.co.uk>
+Date:   Tue Dec 4 22:54:52 2018 +0000
+
+    added git_log_eg and .gitignore
+
 commit abd8766c749319362fc1ad666cdfcdbf04cf8243
 Author: Subject-Infinite <hkqureshi@live.co.uk>
 Date:   Mon Dec 3 11:20:31 2018 +0000
