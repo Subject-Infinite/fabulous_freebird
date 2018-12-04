@@ -1,4 +1,8 @@
 this is a readme file
 nothing to read here
 I added this line in the update-readme branch
-it was so cold and rainy today. Nice weather!
+<<<<<<< HEAD
+
+=======
+it was cold and rainy today... Nice weather!
+>>>>>>> update-readme
