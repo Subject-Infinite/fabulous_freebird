@@ -1,0 +1,17 @@
+commit abd8766c749319362fc1ad666cdfcdbf04cf8243
+Author: Subject-Infinite <hkqureshi@live.co.uk>
+Date:   Mon Dec 3 11:20:31 2018 +0000
+
+    modified readme.txt
+
+commit 0062938e7cfb317ea8675313dab11d8d47336921
+Author: Subject-Infinite <hkqureshi@live.co.uk>
+Date:   Wed Nov 28 22:59:45 2018 +0000
+
+    added 2 files
+
+commit 393b8ba67e9a984ff293a7a28f58536d97b6ca7f
+Author: Subject-Infinite <hkqureshi@live.co.uk>
+Date:   Wed Nov 28 22:54:24 2018 +0000
+
+    added new, empty bash script
