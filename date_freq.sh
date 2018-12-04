@@ -1,7 +1,7 @@
 echo "insert file name of git log here"
 read response
 a1=Mon
-a2=Tue
+sssssa2=Tue
 a3=Wed
 a4=Thurs
 a5=Fri
