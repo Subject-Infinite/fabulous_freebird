@@ -1,30 +1,22 @@
-#This is a large heading
+#Subject-Infinite
 
-##This is a smaller heading
+###bio
+PhD student at University of Birmingham
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+###Reading
 
-- This is
-- an unordered
-- list
+Three of my favourite books are
 
-1. This is
-2. an ordered
-3. list
+- *The Ancestor's Tale* by Richard Dawkins
+- *I-Robot* by Isaac Aasimov
+- *Watchmen* by Alan Moore
 
-Here is `some code` in the middle of a sentence.
+###3 things I enjoy about Winter
 
-```
-This is
-a block
-of code
-```
+1. The feeling of being warm and cosy in bed while it is cold outside
+2. Christmas markets
+3. The hustle and bustle of people winding down work before the holidays.
 
-Here is how you make [a link](https://www.wikipedia.org/).
+###Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano REAME.md
+Carrier pigeon, it'll know where to go
