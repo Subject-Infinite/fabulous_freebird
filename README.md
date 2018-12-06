@@ -1,9 +1,9 @@
-#Subject-Infinite
+# Subject-Infinite
 
-###bio
+### bio
 PhD student at University of Birmingham
 
-###Reading
+### Reading
 
 Three of my favourite books are
 
@@ -11,12 +11,12 @@ Three of my favourite books are
 - *I-Robot* by Isaac Aasimov
 - *Watchmen* by Alan Moore
 
-###3 things I enjoy about Winter
+### 3 things I enjoy about Winter
 
 1. The feeling of being warm and cosy in bed while it is cold outside
 2. Christmas markets
 3. The hustle and bustle of people winding down work before the holidays.
 
-###Contact
+### Contact
 
 Carrier pigeon, it'll know where to go
